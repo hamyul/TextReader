@@ -1,0 +1,17 @@
+Create a new Solution
+-------------------
+> dotnet new sln
+or
+> dotnet new sln --name <SOLUTION NAME>
+
+Creating a new Console Application project
+------------------------------------------
+> dotnet new console --name <PROJECT NAME>
+
+Adding a Project to a Solution
+------------------------------
+> dotnet sln add <PROJECT FOLDER>/<PROJECT NAME>.csproj
+
+Adding Reference to a Project
+-----------------------------
+> dotnet add <PROJECT FOLDER>/<PROJECT NAME>.csproj reference <PROJECT FOLDER>/<PROJECT NAME>.csproj
