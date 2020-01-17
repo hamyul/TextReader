@@ -10,4 +10,4 @@ Text Reader is a library disigned to read text from a source.
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://opensource.org/licenses/MIT)
